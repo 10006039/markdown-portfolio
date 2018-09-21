@@ -15,10 +15,10 @@ layout: default
 <br>
 
 {% include 04-lists.md %}
-- green
-- blue
-- black
-- purple
+-green
+-blue
+-black
+-purple
 
 <br>
 
